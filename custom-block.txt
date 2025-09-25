@@ -1,3 +1,4 @@
 ||avatars.mds.yandex.net^
 ||avatars.dzeninfra.ru^
 ||suggest.sso.dzen.ru^
+||mc.yandex.ru^
