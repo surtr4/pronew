@@ -16,9 +16,10 @@ music.yandex.net
 storage.mds.yandex.net
 avatars.mds.yandex.net
 yandex.st
-!============ NAvigation ===========
-music.yandex.ru
-music.yandex.net
-storage.mds.yandex.net
-avatars.mds.yandex.net
-yandex.st
+!============ Navigation ===========
+api-maps.yandex.ru
+maps.yandex.ru
+sat01.maps.yandex.net
+sat02.maps.yandex.net
+core-renderer-tiles.maps.yandex.ru
+mobile-maps-common.s3.yandex.net
