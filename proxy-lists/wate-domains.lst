@@ -6,6 +6,7 @@ web.whatsapp.com
 api.whatsapp.com
 chat.whatsapp.com
 graph.whatsapp.com
+web.telegram.org
 oauth.telegram.org
 my.telegram.org
 cdn.telegram.org
@@ -15,19 +16,3 @@ translations.telegram.org
 instantview.telegram.org
 telegram.app
 telegram.dev
-comments.app
-contest.com
-fragment.com
-graph.org
-quiz.directory
-t.me
-tdesktop.com
-telega.one
-telegra.ph
-telegram-cdn.org
-telegram.me
-telegram.space
-telesco.pe
-tg.dev
-tx.me
-usercontent.dev
